@@ -43,6 +43,7 @@ def main():
                 youtube_url = download.get_youtube_url()
                 download.download_track(query_string, youtube_url, playlist_folder_path)
 
+    print('Downloading finished. Happy listening! ')
 
 
 main()
