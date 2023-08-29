@@ -1,2 +1,4 @@
 from resources.spotify_prepare import SpotifyPrepare
 from resources.spotify_data_scraping import DataScraping
+from resources.os_file_handling import FileHandling
+from resources.download_playlist import Download
