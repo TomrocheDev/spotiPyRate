@@ -34,7 +34,7 @@ def main():
     # Download playlist and create playlist folders
     for playlists in main_data:
         for title, tracks in playlists.items():
-            playlist_folder_path = f'downloaded_tracks/{title}'
+            playlist_folder_path = f'{downloads_folder_path}/{title}'
             resources.FileHandling(playlist_folder_path).create_folder()
 
             for track in tracks:
