@@ -16,4 +16,4 @@ provided in the script in main.py on line 8 and 9).
 ### Why this project
 Of course, this program is not build to get around a paid membership on Spotify. This program is mainly written to train
 my skills in webscraping and working with dynamic data. I've never written a multipurpose program before, so this was a 
-great excersize for me.
+great excersize for me!
